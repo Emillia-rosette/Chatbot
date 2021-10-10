@@ -1,4 +1,4 @@
-# Telegram Notifications for Available Vaccination Appointments
+# Telegram Notifications Chatbot for Vaccination Appointments avalabilities
 This application includes a web scraper that checks the site of a vaccination center for available vaccination appointments and sends a notification to a user via a Telegram bot if new appointments were added.
 ## Description
 - Installation
