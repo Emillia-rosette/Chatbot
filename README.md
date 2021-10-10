@@ -15,11 +15,11 @@ schedule==0.6.0
 requests==2.25.1
 beautifulsoup4==4.9.3
 
-### Project Motivation
+## Project Motivation
 
 It is currently still difficult to get vaccinated because there aren't enough appointments and doses available for all the people that want to get vaccinated. I kept checking the site of the vaccination center near me multiple times a day manually. So I decided to create a small web scraper that checks the site every 30 minutes to see whether new appointments were added.
 
-### Instructions
+## Instructions
 
 You can take the code and add your own environment variables for your own telegram bot, chat id, url, and div class whose content should be checked on the website. The code was deployed to Heroku, but it can also be run locally. However, it only makes sense to run it locally for testing purposes.
 
