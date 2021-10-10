@@ -7,13 +7,19 @@ This application includes a web scraper that checks the site of a vaccination ce
 - Licensing, Authors, Acknowledgements
 
 
-### The program will give us a reasonable response about Corona-19 vaccine back when an inquiry is given or input to it
+## Installation
 
-The code requires Python versions of 3.* and general libraries available through the Anaconda package. In addition, it uses:
+The code requires Python versions of 3.* and general libraries available through the Anaconda package.
 
-schedule==0.6.0
-requests==2.25.1
-beautifulsoup4==4.9.3
+1. Install Homebrew **/bin/bash -c** "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)" [http://brew.sh/.](url)
+2. Install Python **brew update && brew upgrade**
+4. Create a virtual environment **python -m venv env**
+5. Activate the virtual environment using **source env/bin/activate**
+6. Install them in the virtual environment using pip command as follows:
+**$ pip install flask
+$ pip install python-telegram-bot
+$ pip install requests**
+
 
 ## Project Motivation
 
