@@ -11,7 +11,7 @@ This application includes a web scraper that checks the site of a vaccination ce
 
 The code requires Python versions of 3.* and general libraries available through the Anaconda package.
 
-1. Install Homebrew **/bin/bash -c** "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)" [http://brew.sh/.](url)
+1. Install Homebrew **/bin/bash -c**[http://brew.sh/.](url)
 2. Install Python **brew update && brew upgrade**
 4. Create a virtual environment **python -m venv env**
 5. Activate the virtual environment using **source env/bin/activate**
