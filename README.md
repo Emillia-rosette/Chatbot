@@ -16,10 +16,9 @@ The code requires Python versions of 3.* and general libraries available through
 4. Create a virtual environment **python -m venv env**
 5. Activate the virtual environment using **source env/bin/activate**
 6. Install them in the virtual environment using pip command as follows:
-**$ pip install flask
-$ pip install python-telegram-bot
-$ pip install requests**
 
+requests==2.25.1
+beautifulsoup4==4.9.3
 
 ## Project Motivation
 
